@@ -25,7 +25,7 @@ tags:
 3. resources 目录下的 config 目录下
 4. resources 目录下
 
-![](..\..\..\..\img\02\springboot-application.properties.png)
+![](..\..\..\..\img\02\springboot-application.properties.jpg)
 
 这四个位置是默认位置，即 Spring Boot 启动，默认会从这四个位置按顺序去查找相关属性并加载。但是，这也不是绝对的，我们也可以在项目启动时自定义配置文件位置。
 
@@ -37,7 +37,7 @@ spring.config.location=classpath:/tengxt/
 
 我们可以通过 `spring.config.location` 属性来手动的指定配置文件位置，指定完成后，系统就会自动去指定目录下查找 `application.properties `文件。
 
-![](..\..\..\..\img\02\properties-20190730220304.png)
+![](..\..\..\..\img\02\properties-20190730220304.jpg)
 
 此时启动项目，就会发现，项目以 `classpath:/tengxt/application.propertie` 配置文件启动。
 

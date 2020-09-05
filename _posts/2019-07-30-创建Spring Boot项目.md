@@ -47,7 +47,7 @@ tags:
 
 首先打开 `https://start.spring.io` 这个网站，如下：
 
-![](../../../../img/01/start-SpringBoot20190730154302.png)
+![](../../../../img/01/start-SpringBoot20190730154302.jpg)
 
 
 
@@ -71,15 +71,15 @@ tags:
 
 首先在创建项目时选择 Spring Initializr，如下图：
 
-![](../../../../img/01/start-springboot20190730160408.png)
+![](../../../../img/01/start-springboot20190730160408.jpg)
 
 然后点击 Next ，填入 Maven 项目的基本信息，如下：
 
-![](../../../../img/01/start-springboot20190730160833.png)
+![](../../../../img/01/start-springboot20190730160833.jpg)
 
 再接下来选择需要添加的依赖，如下图：
 
-![](../../../../img/01/start-springboot20190730160948.png)
+![](../../../../img/01/start-springboot20190730160948.jpg)
 
 勾选完成后，点击 Next 完成项目的创建。
 
@@ -89,11 +89,11 @@ tags:
 
 首先创建一个普通的 Maven 项目，以 IntelliJ IDEA 为例，创建步骤如下：
 
-![](../../../../img/01/start-springboot20190730161955.png)
+![](../../../../img/01/start-springboot20190730161955.jpg)
 
 注意这里不用选择项目骨架，直接点击 Next ，下一步中填入一个 Maven 项目的基本信息，如下图：
 
-![](../../../../img/01/start-springboot20190730162155.png)
+![](../../../../img/01/start-springboot20190730162155.jpg)
 
 然后点击 Next 完成项目的创建。
 
@@ -155,7 +155,7 @@ public class App {
 
 在浏览器访问地址`http://localhost:8080/hello`可在页面显示`Hello Spring Boot` 说明配置成功。
 
-![](../../../../img/01/start-springboot20190730163146.png)
+![](../../../../img/01/start-springboot20190730163146.jpg)
 
 ##  Spring Boot 项目中的 parent
 
