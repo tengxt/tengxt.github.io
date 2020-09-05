@@ -4,7 +4,7 @@ title:      "Spring Boot项目打包成war包"
 subtitle:   "Spring Boot 2.1.6"
 date:       2019-08-27 23:05:00
 author:     "Xt"
-header-style: text
+header-img: "img/post-bg-war.jpg"
 tags:
     - Spring Boot 2.1.6
     - War

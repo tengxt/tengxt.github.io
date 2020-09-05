@@ -23,7 +23,7 @@ Spring Boot开启 JdbcTemplate 很简单，只需要引入`spring-boot-starter-j
 </dependency>
 ```
 
-数据库驱动为MySQL，数据源采用Druid。可以参考[Spring-Boot中使用-MyBatis](https://tengxt.gitee.io/2019/08/01/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8-MyBatis/)
+数据库驱动为MySQL，数据源采用Druid。可以参考[Spring-Boot中使用-MyBatis](https://tengxt.gitee.io/2019/08/02/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8-MyBatis/)
 
 #### 测试数据
 
