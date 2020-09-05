@@ -10,7 +10,7 @@ tags:
     - MyBatis
 ---
 
-整合MyBatis之前，先搭建一个基本的Spring Boot项目[创建Spring-Boot项目](https://tengxt.gitee.io/2019/07/30/%E5%88%9B%E5%BB%BASpring-Boot%E9%A1%B9%E7%9B%AE/)。然后引入`mybatis-spring-boot-starter`和数据库（MySQL）连接驱动。
+整合MyBatis之前，先搭建一个基本的Spring Boot项目[创建Spring-Boot项目](https://tengxt.gitee.io/2019/07/31/%E5%88%9B%E5%BB%BASpring-Boot%E9%A1%B9%E7%9B%AE/)。然后引入`mybatis-spring-boot-starter`和数据库（MySQL）连接驱动。
 
 ### `pom.xml`文件引入
 

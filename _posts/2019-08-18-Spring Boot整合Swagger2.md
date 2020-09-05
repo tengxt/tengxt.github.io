@@ -208,7 +208,7 @@ public class UserController {
 
 启动项目，访问<http://localhost:8080/swagger-ui.html>即可看到Swagger给我们生成的API页面
 
-![](..\..\..\img\04\swagger_ui_20190816163329.png)
+![](..\..\..\img\04\swagger_ui_20190816163329.jpg)
 
 > [source code](https://github.com/tengxt/springboot-learn/tree/master/spring-boot-swagger2)
 

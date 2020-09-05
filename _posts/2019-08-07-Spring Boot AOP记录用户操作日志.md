@@ -10,7 +10,7 @@ tags:
     - AOP
     - 日志
 ---
-在Spring框架中，使用AOP配合自定义注解可以方便的实现用户操作的监控。创建一个含`JdbcTemplate`的Spring Boot应用，可以参考[SpringBoot 中使用JdbcTemplate](https://tengxt.gitee.io/2019/08/01/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8-JdbcTemplate/)
+在Spring框架中，使用AOP配合自定义注解可以方便的实现用户操作的监控。创建一个含`JdbcTemplate`的Spring Boot应用，可以参考[SpringBoot 中使用JdbcTemplate](https://tengxt.gitee.io/2019/08/02/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8-JdbcTemplate/)
 
 #### 引入aop的依赖
 

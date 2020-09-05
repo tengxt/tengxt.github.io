@@ -13,7 +13,7 @@ tags:
 
 多数据源配置也算是一个常见的开发需求，在`Spring Boot`中，`JdbcTemplate、MyBatis以及Jpa`都可以配置多数据源。
 
-先创建应用，可以参考[Spring Boot中使用 MyBatis](https://tengxt.gitee.io/2019/08/01/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8-MyBatis/)
+先创建应用，可以参考[Spring Boot中使用 MyBatis](https://tengxt.gitee.io/2019/08/02/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8-MyBatis/)
 
 #### 引入依赖
 

@@ -172,7 +172,7 @@ public class TimeInterceptor implements HandlerInterceptor {
 
 `TimeInterceptor`实现了`HandlerInterceptor`接口的三个方法。`preHandle`方法在处理拦截之前执行，`postHandle`只有当被拦截的方法没有抛出异常成功时才会处理，`afterCompletion`方法无论被拦截的方法抛出异常与否都会执行。
 
-通过这三个方法的参数可以看到，相较于过滤器，拦截器多了Object和Exception对象，所以可以获取的信息比过滤器要多的多。但过滤器仍无法获取到方法的参数等信息，我们可以通过切面编程来实现这个目的，可参考[Spring Boot AOP记录用户操作日志](https://tengxt.gitee.io/2019/08/07/Spring-Boot-AOP%E8%AE%B0%E5%BD%95%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97/)。
+通过这三个方法的参数可以看到，相较于过滤器，拦截器多了Object和Exception对象，所以可以获取的信息比过滤器要多的多。但过滤器仍无法获取到方法的参数等信息，我们可以通过切面编程来实现这个目的，可参考[Spring Boot AOP记录用户操作日志](https://tengxt.gitee.io/2019/08/08/Spring-Boot-AOP%E8%AE%B0%E5%BD%95%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97/)。
 
 要使拦截器在Spring Boot中生效，还需要如下两步配置：
 

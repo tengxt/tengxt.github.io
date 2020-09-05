@@ -11,7 +11,7 @@ tags:
     - DataSource
 ---
 
-首先创建 MyBatis 项目，可以参考 [Spring Boot 中使用MyBatis](https://tengxt.gitee.io/2019/08/01/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8-MyBatis/)
+首先创建 MyBatis 项目，可以参考 [Spring Boot 中使用MyBatis](https://tengxt.gitee.io/2019/08/02/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8-MyBatis/)
 
 项目创建完成后，添加Druid依赖；和`JdbcTemplate`一样。`pom.xml`文件的完整依赖如下
 
@@ -41,7 +41,7 @@ tags:
 
 #### 多数据源配置
 
-在Spring Boot的配置文件`application.yml`中配置`MyBatis`多数据源和 [Spring Boot 多数据源配置之JdbcTemplate](https://tengxt.gitee.io/2019/08/01/Spring-Boot-%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E9%85%8D%E7%BD%AE%E4%B9%8BJdbcTemplate/) 一致。
+在Spring Boot的配置文件`application.yml`中配置`MyBatis`多数据源和 [Spring Boot 多数据源配置之JdbcTemplate](https://tengxt.gitee.io/2019/08/02/Spring-Boot-%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E9%85%8D%E7%BD%AE%E4%B9%8BJdbcTemplate/) 一致。
 
 然后再提供两个`DataSource`如下：
 
@@ -166,7 +166,7 @@ public interface UserOneMapper {
 </mapper>
 ```
 
-`Service，Controller`以及测试数据参考[Spring Boot 多数据源配置之JdbcTemplate](https://tengxt.gitee.io/2019/08/01/Spring-Boot-%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E9%85%8D%E7%BD%AE%E4%B9%8BJdbcTemplate/) 。
+`Service，Controller`以及测试数据参考[Spring Boot 多数据源配置之JdbcTemplate](https://tengxt.gitee.io/2019/08/02/Spring-Boot-%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E9%85%8D%E7%BD%AE%E4%B9%8BJdbcTemplate/) 。
 
 > [source code](https://github.com/tengxt/springboot-learn/tree/master/spring-boot-mybatis-multidatasource)
 
