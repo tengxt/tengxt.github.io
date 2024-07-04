@@ -2,14 +2,13 @@
 
 Hi，我是小涛，一枚后端`Java`开发的泥瓦匠。
 
-日常出没于[博客](https://blog.csdn.net/tyt_XiaoTao)、[微博](https://weibo.com/tengxt)、[Github](https://github.com/tengxt)。
 
 
 ##### 个人信息
 
-**邮箱：**x9128168@gmail.com                     
+**邮箱：**i2dwS8vVNrw2Up2ppQTFk3KeQUTZhoQdT6SpY69Mo9dWdssLy9qSdMYBvWrxr4Fn2jro                     
 
-**毕业院校：**电子科技大学	
+**毕业院校：**	5885\urb3264
 
 
 ##### 专业技能
